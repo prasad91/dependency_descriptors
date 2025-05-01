@@ -1,0 +1,30 @@
+<ns0:project xmlns:ns0="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0           http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <ns0:modelVersion>4.0.0</ns0:modelVersion>
+
+    <ns0:groupId>com.example</ns0:groupId>
+    <ns0:artifactId>vuln-maven-app</ns0:artifactId>
+    <ns0:version>1.0.0</ns0:version>
+
+    <ns0:dependencies>
+        
+        <ns0:dependency>
+            <ns0:groupId>org.springframework</ns0:groupId>
+            <ns0:artifactId>spring-web</ns0:artifactId>
+            <ns0:version>5.3.34</ns0:version>
+        </ns0:dependency>
+
+        
+        <ns0:dependency>
+            <ns0:groupId>ch.qos.logback</ns0:groupId>
+            <ns0:artifactId>logback-core</ns0:artifactId>
+            <ns0:version>1.2.7</ns0:version>
+        </ns0:dependency>
+
+        
+        <ns0:dependency>
+            <ns0:groupId>org.apache.commons</ns0:groupId>
+            <ns0:artifactId>commons-collections4</ns0:artifactId>
+            <ns0:version>4.3</ns0:version>
+        </ns0:dependency>
+    </ns0:dependencies>
+</ns0:project>
