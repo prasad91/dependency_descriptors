@@ -10,7 +10,7 @@
         <ns0:dependency>
             <ns0:groupId>org.springframework</ns0:groupId>
             <ns0:artifactId>spring-web</ns0:artifactId>
-            <ns0:version>5.3.34</ns0:version>
+            <ns0:version>5.3.38</ns0:version>
         </ns0:dependency>
 
         
