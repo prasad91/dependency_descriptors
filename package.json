@@ -2,10 +2,11 @@
   "name": "vuln-react-app",
   "version": "0.0.1",
   "dependencies": {
-    "react": "15.13.0",
-    "react-dom": "14.13.0",
-    "lodash": "3.17.21",
+    "react": "16.13.0",
+    "react-dom": "16.13.0",
+    "lodash": "4.17.21",
     "minimist": "0.0.8",
-    "serialize-javascript": "2.1.1"
+    "serialize-javascript": "2.1.1",
+    "axios": "0.21.0"
   }
 }
